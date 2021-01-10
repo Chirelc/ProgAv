@@ -2,8 +2,6 @@ public class Etudiant{
 <<<<<<< Updated upstream:Etudiant.java
 	
 }
-=======
-Modification
-une autre mod
+CONFLICT
 }
 >>>>>>> Stashed changes:Etudiant
