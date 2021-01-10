@@ -1,6 +1,6 @@
 package progav;
 
 public class Message {
-String text; 
+String texte ;
 
 }
