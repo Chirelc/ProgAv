@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author chirel
- *
- */
-module progav {
-}
