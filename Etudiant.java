@@ -4,6 +4,6 @@ public class Etudiant{
 }
 =======
 Modification
-une autre mod
+une autre modification
 }
 >>>>>>> Stashed changes:Etudiant
